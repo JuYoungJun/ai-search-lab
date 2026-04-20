@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://juyoungjun.github.io/ai-search-lab/sitemap.xml
